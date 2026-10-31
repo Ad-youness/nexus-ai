@@ -1,8 +1,8 @@
 import type { MetadataRoute } from "next";
 
-export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://YOUR-DOMAIN.com";
+const baseUrl = "https://nexus-ai-eight-puce.vercel.app";
 
+export default function sitemap(): MetadataRoute.Sitemap {
   const routes = [
     "",
     "/services",
