@@ -56,8 +56,8 @@ return ( <section
 
       <SectionHeading
         eyebrow="Solutions"
-        title="Smarter Systems. Better Business Operations."
-        description="We turn time-consuming business processes into intelligent workflows that help teams operate more efficiently."
+        title="See What Automation Can Do for Your Business."
+        description="Here are practical examples of how connected AI systems can handle repetitive steps, support your team, and create a smoother customer experience."
       />
     </div>
 
@@ -94,7 +94,7 @@ return ( <section
 
                 {/* Image Label */}
                 <span className="absolute bottom-5 left-6 rounded-full border border-white/10 bg-black/50 px-4 py-2 text-[10px] font-bold tracking-widest text-white backdrop-blur-xl">
-                  NEXUSAI SOLUTION
+                  WORKFLOW EXAMPLE
                 </span>
 
                 {/* Hover Glow */}
