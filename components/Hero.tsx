@@ -23,37 +23,35 @@ export function Hero() {
             </span>
 
             <span className="text-[10px] font-bold tracking-[0.22em] text-violet-200 sm:text-xs">
-              AI AUTOMATION AGENCY
+              AI AUTOMATION FOR GROWING BUSINESSES
             </span>
 
             <span className="text-cyan-400">✦</span>
           </div>
 
           <h1 className="font-display text-5xl leading-[1.05] font-extrabold tracking-[-0.045em] text-white sm:text-6xl lg:text-7xl">
-            We Build
+            Turn Busywork
             <br />
             <span className="bg-gradient-to-r from-violet-400 via-purple-300 to-cyan-300 bg-clip-text text-transparent">
-              Intelligent
+              Into Growth.
             </span>
-            <br />
-            Automation.
           </h1>
 
           <p className="mt-8 max-w-xl text-base leading-8 text-zinc-400 sm:text-lg">
-            Turn repetitive tasks into intelligent systems.
-            NexusAI builds AI agents and automated workflows
-            that help businesses save time, capture more leads,
-            and scale smarter.
+            Give your team more time to focus on what matters.
+            NexusAI designs AI agents and connected workflows that
+            streamline operations, respond to customers faster,
+            and help your business grow with confidence.
           </p>
 
           <div className="mt-10 flex flex-col gap-4 sm:flex-row">
             <Button href="/contact">
-              Book a Discovery Call
+              Let's Talk About Your Workflow
               <span className="ml-2">↗</span>
             </Button>
 
             <Button href="/projects" variant="secondary">
-              Explore Our Work
+              Explore Demo Projects
               <span className="ml-2">→</span>
             </Button>
           </div>
@@ -62,28 +60,28 @@ export function Hero() {
           <div className="mt-14 grid max-w-lg grid-cols-3 border-t border-white/10 pt-8">
             <div>
               <p className="text-2xl font-extrabold text-white sm:text-3xl">
-                AI<span className="text-violet-400">+</span>
+                SMARTER
               </p>
               <p className="mt-2 text-[10px] font-medium text-zinc-500 sm:text-xs">
-                Intelligent Systems
+                Business Operations
               </p>
             </div>
 
             <div className="border-x border-white/10 px-4">
               <p className="text-2xl font-extrabold text-white sm:text-3xl">
-                24<span className="text-cyan-400">/7</span>
+                FASTER
               </p>
               <p className="mt-2 text-[10px] font-medium text-zinc-500 sm:text-xs">
-                Automated Workflows
+                Customer Response
               </p>
             </div>
 
             <div className="pl-4">
               <p className="text-2xl font-extrabold text-white sm:text-3xl">
-                ∞
+                SCALABLE
               </p>
               <p className="mt-2 text-[10px] font-medium text-zinc-500 sm:text-xs">
-                Growth Potential
+                Systems That Grow
               </p>
             </div>
           </div>
