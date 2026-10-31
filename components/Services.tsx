@@ -58,8 +58,8 @@ return ( <section
 
       <SectionHeading
         eyebrow="Our Services"
-        title="Intelligence That Moves Your Business Forward."
-        description="From intelligent AI agents to connected workflows, we build automation systems designed to eliminate repetitive work and unlock business growth."
+        title="Practical AI Systems. Measurable Business Impact."
+        description="Explore the systems we can build around your operations—from customer conversations and lead handling to the tools your team uses every day."
       />
     </div>
 
@@ -135,7 +135,7 @@ return ( <section
                 {/* Bottom Decoration */}
                 <div className="mt-8 flex items-center justify-between border-t border-white/[0.07] pt-5">
                   <span className="text-[10px] font-bold tracking-[0.16em] text-zinc-500 uppercase">
-                    NexusAI Solutions
+                    LET'S BUILD THIS
                   </span>
 
                   <span className="flex h-9 w-9 items-center justify-center rounded-full border border-white/10 text-zinc-400 transition-all duration-500 group-hover:rotate-45 group-hover:border-violet-400/40 group-hover:bg-violet-500/10 group-hover:text-violet-300">
