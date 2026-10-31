@@ -24,37 +24,37 @@ export const services = [
   {
     title: "AI Agents",
     description:
-      "Purpose-built agents that research, decide, and act across your tools with clear guardrails.",
+      "Deploy AI assistants that answer questions, qualify requests, retrieve information, and complete approved tasks across your business tools.",
     accent: "purple" as const,
   },
   {
     title: "Workflow Automation",
     description:
-      "Connect the steps between intake, approval, and delivery so work moves without handoffs.",
+      "Automate repetitive processes—from form submissions and notifications to approvals and reporting—so tasks move forward reliably.",
     accent: "cyan" as const,
   },
   {
     title: "AI Customer Support",
     description:
-      "Triage, draft replies, and escalate with context so your team only handles the exceptions.",
+      "Respond to common questions, organize incoming requests, and route complex conversations to your team with the right context.",
     accent: "lime" as const,
   },
   {
     title: "CRM Automation",
     description:
-      "Keep records current, route opportunities, and trigger follow-ups as soon as signals appear.",
+      "Automatically update customer records, assign new leads, track activity, and trigger timely follow-ups in your CRM.",
     accent: "purple" as const,
   },
   {
     title: "AI Integrations",
     description:
-      "Link your stack—email, calendar, CRM, and ops tools—into one coordinated automation layer.",
+      "Connect the apps you already use, including email, calendars, forms, and CRMs, to keep business information flowing.",
     accent: "cyan" as const,
   },
   {
     title: "Lead Qualification",
     description:
-      "Score, enrich, and prioritize inbound interest so sales time goes to the right conversations.",
+      "Capture inquiries, identify intent, and prioritize promising prospects so your team can focus on qualified opportunities.",
     accent: "lime" as const,
   },
 ] as const;
