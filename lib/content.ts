@@ -90,22 +90,22 @@ export const solutions = [
   {
     title: "Automated lead qualification",
     description:
-      "Inbound forms and emails are enriched, scored, and routed to the right owner with a concise brief.",
+      "A website inquiry arrives, its details and intent are extracted, a lead score is prepared, and the right team member receives a structured summary for review.",
   },
   {
     title: "Customer support workflows",
     description:
-      "Tickets are classified, drafts are prepared, and urgent cases skip the queue with full conversation history.",
+      "Incoming messages are categorized, suggested replies are prepared from approved information, and sensitive or complex cases are handed to a human with context.",
   },
   {
     title: "Appointment orchestration",
     description:
-      "Availability, reminders, reschedules, and follow-ups stay in sync across calendar and CRM.",
+      "A customer requests a time, the workflow checks connected availability, sends booking details, and prepares reminders or rescheduling steps.",
   },
   {
     title: "Repetitive business tasks",
     description:
-      "Status updates, file prep, data entry, and internal summaries run on a schedule instead of a to-do list.",
+      "Recurring admin work—such as updating records, organizing form data, preparing summaries, and sending notifications—runs through connected workflows.",
   },
 ] as const;
 
