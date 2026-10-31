@@ -9,7 +9,7 @@ const projects = [
     category: "AI AGENT",
     title: "AI Receptionist",
     description:
-      "An intelligent virtual receptionist that handles customer inquiries, answers questions, qualifies leads, and helps schedule appointments automatically.",
+      "Concept workflow for a virtual receptionist: capture an inquiry, answer approved FAQs, collect key details, qualify the request, and prepare an appointment handoff for the team.",
     image:
       "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1400&q=90",
     imageAlt: "Professional business team working together",
@@ -21,7 +21,7 @@ const projects = [
     category: "AI CUSTOMER SUPPORT",
     title: "AI Support Agent",
     description:
-      "An AI-powered customer support assistant designed to respond to customer questions, understand requests, and provide automated support around the clock.",
+      "Concept support assistant that classifies incoming messages, finds relevant answers from an approved knowledge base, drafts a response, and escalates uncertain cases to a human.",
     image:
       "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&w=1400&q=90",
     imageAlt: "Technology professionals collaborating on a project",
@@ -33,7 +33,7 @@ const projects = [
     category: "WORKFLOW AUTOMATION",
     title: "Business Automation System",
     description:
-      "A connected workflow that captures leads, organizes customer information, updates CRM records, and automates business notifications.",
+      "Concept automation pipeline that captures a new lead, validates submitted details, updates a CRM or tracking sheet, and notifies the right team member.",
     image:
       "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1400&q=90",
     imageAlt: "Business analytics dashboard displayed on a computer",
@@ -61,8 +61,8 @@ export function FeaturedProjects() {
 
           <SectionHeading
             eyebrow="Selected Projects"
-            title="Intelligent Systems. Real Business Possibilities."
-            description="Explore concept demonstrations of AI agents and automated workflows designed to solve practical business challenges."
+            title="Explore the Workflows Behind the Ideas."
+            description="Each concept shows a practical workflow—from the initial customer request to the next action—using tools commonly found in modern businesses."
           />
         </div>
 
@@ -212,9 +212,7 @@ export function FeaturedProjects() {
             <span className="font-bold text-cyan-300">
               Portfolio Note:
             </span>{" "}
-            These are concept demonstrations illustrating potential
-            automation solutions. They are not presented as completed
-            client projects.
+            These portfolio examples are concept demonstrations created to explain possible solutions. They are not live client deployments or claims of completed client work.
           </p>
         </div>
       </Container>
